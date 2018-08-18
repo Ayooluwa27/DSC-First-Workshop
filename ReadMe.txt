@@ -1,3 +1,3 @@
-This is a new file created by me
+DSC UNILAG First Workshop
 
-Oluwalolope Hope
+Theme: Getting started with Version control
